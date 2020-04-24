@@ -1,0 +1,37 @@
+body {
+  background: #654ea3; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #eaafc8,
+    #654ea3
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #eaafc8,
+    #654ea3
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
+
+nav {
+  background-color: #4a306d;
+  padding-bottom: 20px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background-color: #4a306d;
+  border: 1px solid white;
+}
+
+.suc {
+  color: green;
+  margin-top: 20px;
+  text-align: center;
+}
